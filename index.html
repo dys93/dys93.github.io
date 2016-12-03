@@ -1,1 +1,31 @@
 Hello! Admissions committee!
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+function GetLocalIPAddress()
+{
+var obj = null;
+var rslt = "";
+try
+{
+obj = new ActiveXObject("rcbdyctl.Setting");
+rslt = obj.GetIPAddress;
+obj = null;
+}
+catch(e)
+{
+//异常发生
+}
+
+return rslt;
+}
+
+document.write("你的IP是：" + GetLocalIPAddress());
+//这里你也可以让它显示在Div上便于布局
+//通过Document.getElementById("Div的ID").value=GetLocalIPAddress();
+//-->
+</script>
+
+
