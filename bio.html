@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Yusheng Ding, Tongji University Software Engineering</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="portfolio-item.css" rel="stylesheet">
+    <script src="js/jquery-1.8.1.min.js"></script>
+    <script> 
+      $(function(){
+        $("#navbar").load("navbar.html"); 
+      });
+    </script> 
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->    
+    <div id='navbar'></div>
+
+    <!-- Page Content -->
+    <div class="container" style="margin-top: -10px">
+        <!-- Portfolio Item Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Spatial Association Gene Network Analysis 
+                  <small >April.2016 - Present</small>
+                </h1>
+                <h2 style="margin-top:-10px">
+                  <small>Directed by <a href="http://web1.sph.emory.edu/users/tyu8/">Prof. Tianwei Yu</a>, Emory University.</small>   
+                </h2>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Bioinformatics Project Item Row -->
+        <div class="row">
+          <div class="col-lg-12">
+            <h3>Description of this project</h3>    
+              <ul>
+                <li>As maintainer and developer of Package. <a href="picture/package_description.pdf">Here for Package Description (Uncompleted).</a> </li>
+                <li>Using Local Moran's I to quantify the spatial association of the network  </li>
+                <li>Developing R package for spatial association analysis   </li>
+                <li>Using the method to predict the core gene groups of an unknown disease  </li>
+              </ul>
+          </div>
+
+          <div class="col-lg-12">
+            <h3>AUC(Area Under Curve) in different simulation situations</h3>  
+              <div class="row">
+                <div class="col-lg-12">
+                  <h4>When significant genes have 5 to 10 edges</h4>
+                  <div class="col-md-5">
+                      <h5>PR(Precision and Recall)-AUC</h4>
+                      <img class="img-responsive" src="picture/5_10_prauc.jpg" alt="prauc_jpg" width="600">
+                  </div>
+                  <div class="col-md-1"></div>
+                  <div class="col-md-5">
+                      <h5>ROC( <a href='https://en.wikipedia.org/wiki/Receiver_operating_characteristic'> Receiver Operating Characteristic Curve</a> )-AUC</h4>
+                      <img class="img-responsive" src="picture/5_10_rocauc.jpg" alt="rocauc_jpg" width="600">
+                  </div>
+                </div>
+              </div>
+              <br>
+              <div class="row">
+                <div class="col-lg-12">    
+                  <h4>When significant genes have 15 to 20 edges</h4>
+                  <div class="col-md-5">
+                      <h5>PR(Precision and Recall)-AUC</h4>
+                      <img class="img-responsive" src="picture/15_20_prauc.jpg" alt="prauc_jpg" width="600">
+                  </div>
+                  <div class="col-md-1"></div>
+                  <div class="col-md-5">
+                      <h5>ROC(Receiver Operating Characteristic Curve)-AUC</h4>
+                      <img class="img-responsive" src="picture/15_20_rocauc.jpg" alt="rocauc_jpg" width="600">
+                  </div>
+                </div>
+              </div>
+          </div>
+
+          <div class="col-lg-12">
+            <h3>fdr Result for Real Data</h3>    
+            <img class="img-responsive" src="picture/fdr_result.jpg" alt="fdr_result_jpg" width="800">
+          </div>
+
+        </div>
+        
+ 
+
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; Yusheng Ding 2016</p>
+                </div>
+            </div>
+            <!-- /.row -->
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+
+
+</body>
+
+</html>
