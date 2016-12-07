@@ -1,0 +1,218 @@
+[class^="icon"]{
+    display: inline-block;
+    overflow: hidden;
+    zoom:0.7;
+    -moz-transform:scale(0.7);
+    -moz-transform-origin: 0 0;
+}
+
+#scale{
+    zoom:0.5;
+    -moz-transform:scale(0.5);
+    -moz-transform-origin: 0 0;	
+}
+
+.icon1_1_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position: -36px -60px;
+  height:100px;
+  width:400px;
+}
+
+.icon1_2_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-60px -310px;
+  height:160px;
+  width:160px;
+}
+.icon1_2_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-430px -400px;
+  height:65px;
+  width:150px;
+}
+.icon1_3_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-60px -600px;
+  height:100px;
+  width:100px;
+}
+
+.icon1_3_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-280px -550px;
+  height:180px;
+  width:200px;
+}
+
+.icon1_4_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-60px -800px;
+  height:260px;
+  width:360px;
+}
+
+.icon1_4_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-415px -830px;
+  height:60px;
+  width:60px;
+}
+
+.icon1_5_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-50px -1130px;
+  height:310px;
+  width:480px;
+}
+
+.icon1_6_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-60px -1480px;
+  height:180px;
+  width:180px;
+}
+
+.icon1_6_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-220px -1530px;
+  height:80px;
+  width:180px;
+}
+
+.icon1_6_3 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-400px -1460px;
+  height:200px;
+  width:200px;
+}
+
+.icon2_0_0 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-710px -320px;
+  height:35px;
+  width:35px;
+}
+
+.icon2_0_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-860px -300px;
+  height:65px;
+  width:20px;
+}
+
+.icon2_1_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-730px -600px;
+  height:220px;
+  width:220px;
+}
+
+.icon2_1_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1050px -560px;
+  height:350px;
+  width:400px;
+}
+
+
+.icon2_2_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-740px -1040px;
+  height:200px;
+  width:200px;
+}
+
+.icon2_2_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-980px -1090px;
+  height:100px;
+  width:100px;
+}
+
+.icon2_3_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-720px -1350px;
+  height:150px;
+  width:380px;
+}
+
+.icon2_3_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1140px -1350px;
+  height:150px;
+  width:380px;
+}
+
+.icon2_4_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-660px -1550px;
+  height:100px;
+  width:400px;
+}
+
+.icon2_4_2 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1180px -1550px;
+  height:100px;
+  width:400px;
+}
+
+
+.icon3_1_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1640px -365px;
+  height:280px;
+  width:295px;
+}
+
+
+.icon3_2_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1640px -650px;
+  height:240px;
+  width:260px;
+}
+.icon3_3_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1640px -910px;
+  height:260px;
+  width:260px;
+}
+.icon3_4_1 {
+  background:url(t_icon.png);
+  background-repeat:no-repeat;
+  background-position:-1600px -1240px;
+  height:420px;
+  width:380px;
+}
+
+img {
+
+}
+
+

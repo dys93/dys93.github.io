@@ -1,0 +1,44 @@
+.title_dred{
+	background-color: rgb(180,70,45);
+}
+.title_red{
+
+	background-color: rgb(230, 79,37);
+}
+
+.pane_yellow{
+	background-color: rgb(245,172,58);
+}
+
+.pane_red{
+	background-color: rgb(223,72,70);
+}
+
+
+.pane_orange{
+	background-color: rgb(239,134,63);
+}
+
+.pane_green{
+	background-color: rgb(91,181,67);
+
+}
+.pane_dblue{
+	background-color: rgb(44,122,141);
+
+}
+
+.title_dblue{
+	background-color: rgb(42,129,152);
+}
+.title_blue{
+	background-color: rgb(78,184,195);
+}
+
+.pane_dgray{
+	background-color: rgb(162,163,163);
+}
+
+.pane_gray{
+	background-color: rgb(216,216,216);
+}
